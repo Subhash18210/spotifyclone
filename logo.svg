@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <!-- Circle background -->
+  <circle cx="30" cy="30" r="28" fill="#673AB7" />
+  
+  <!-- Music note -->
+  <path d="M30 18v15a4 4 0 1 0 2 3.5V21h10v-3h-12z" fill="white"/>
+</svg>
+
+
+
+
